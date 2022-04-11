@@ -2,11 +2,6 @@ All the packages needed for the project is mentioned in 'requirements.txt' file.
 
     pip install -r requirements.txt
 
-Perform DB migration using commands:
-
-    python manage.py makemigrations
-    python manage.py migrate
-
 Start the server using command:
 
     python manage.py runserver
